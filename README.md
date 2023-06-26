@@ -44,4 +44,4 @@ For an in-depth explanation of these methods, please refer to our paper.
 
 ## Centrosymmetry 
 
-The centrosymmety directory contains 
+The `centrosymmetry` directory contains the scripts used to generate the centrosymmetry kde descriptor. 
