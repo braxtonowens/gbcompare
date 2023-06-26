@@ -4,6 +4,10 @@ This repository hosts scripts used for generating grain boundary descriptors in 
 
 The scripts streamline the process of translating grain boundary representations from Cartesian coordinates to atomic environment descriptors, and finally to grain boundary descriptors, allowing the generated descriptors to be used as features in Machine Learning models.
 
+## Dataset
+The dataset used in the paper can be found [here](https://data.mendeley.com/datasets/4ykjz4ngwt)
+
+
 ## Cartesian Coordinates
 
 The .out files produced from LAMMPS simulations store the Cartesian coordinates of individual atoms within a grain boundary. The `sample_data` directory includes a fraction of the 7000 .out files contained in our original dataset.
@@ -36,3 +40,8 @@ Additionally, we implemented two methods for direct transformation from the Cart
 2. Graph2Vec
 
 For an in-depth explanation of these methods, please refer to our paper.
+
+
+## Centrosymmetry 
+
+The centrosymmety directory contains 
