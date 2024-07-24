@@ -49,5 +49,3 @@ The implemented methods for this transformation include:
 
 For an in-depth explanation of these methods, please refer to our paper.
 
-# Feature Selection
-
